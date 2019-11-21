@@ -1,47 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="animate.css">
-    <link rel="stylesheet" href="style.css">
-    <title>Jesse Reyes</title>
-</head>
-<body>
-    <div>
-        <h1 class="name animated fadeInRight">
-          Jesse Reyes
-        </h1>
-    </div>
-      <div class="animated fadeInLeft">
-        <a href="prompt.html"
-          ><h2>
-            Prompt Scores
-          </h2></a
-        >
-    </div>
-    <div class="animated fadeInLeft">
-        <a href="ensemble.html"
-          ><h2>
-            Ensemble Scores
-          </h2></a
-        >
-    </div>
-      <div class="animated fadeInLeft">
-        <a href="fire.html"
-          ><h2>
-            Fire Scores
-          </h2></a
-        >
-    </div>
-    <div class="animated fadeInLeft">
-        <a href="warning.html"
-          ><h2>
-            Self Portraits
-          </h2></a
-        >
-    </div>
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     
-</body>
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    <script
+  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  crossorigin="anonymous"></script>
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+
+    
+    <div class="img-list">
+          <img src="https://images.unsplash.com/photo-1574278047795-bf309f5a5cc0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+    <img src="https://images.unsplash.com/photo-1574279525876-e784619603cf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+    <img src="https://images.unsplash.com/photo-1573142143200-2a6d95ae7352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60">
+    </div>
+
+    
+    <div class="lightbox">
+      <div class="overlay">
+      </div>
+      <img src="https://images.unsplash.com/photo-1573142143200-2a6d95ae7352?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60" class="lightbox-img">
+    </div>
+
+    <!-- include the Glitch button to show what the webpage is about and
+          to make it easier for folks to view source and remix -->
+    <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
+    <script src="https://button.glitch.me/button.js"></script>
+  </body>
 </html>
