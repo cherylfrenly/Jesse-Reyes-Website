@@ -43,16 +43,6 @@ a {
   border-top: 2px solid rosybrown;
 }
 
-.hover a:hover {
-  background-color: gray;
-  color: black;
-  transition: ease-in 0.5s;
-  box-shadow: 10px 10px 10px #aaaaaa;
-  zoom: 1.2;
-  border-radius: 10%;
-}
-
-
 .img-list {
   display: flex;
   justify-content: space-around;
