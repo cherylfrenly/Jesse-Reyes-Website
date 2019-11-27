@@ -50,14 +50,12 @@ a {
 }
 
 .img-list img {
-  width: 30vw;
-  height: 30vw;
-  margin: 16px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   object-position: center;
-  min-width: 500px;
-  min-height: 500px;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.2);
+  margin-bottom: 32px;
   border-radius: 8px;
 }
 
