@@ -50,8 +50,8 @@ a {
 }
 
 .img-list img {
-  width: 30vw;
-  height: 30vw;
+  width: 15vw;
+  height: 15vw;
   margin: 16px;
   object-fit: cover;
   object-position: center;
