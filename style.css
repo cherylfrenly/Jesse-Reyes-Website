@@ -19,7 +19,7 @@ h2 {
   font-size: 48px;
   border: 2px solid darkslategray;
   padding: 16px;
-  box-shadow: 4px 4px 18px rgba(88, 8, 26, 0.64);
+  box-shadow: 1px 1px 18px rgba(88, 8, 26, 0.64);
 }
 
 h3 {
