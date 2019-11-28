@@ -54,7 +54,7 @@ a {
   height: 100px;
   object-fit: cover;
   object-position: center;
-  box-shadow: 9px 9px 16px rgba(88, 8, 26, 0.64);
+  box-shadow: 4px 4px 18px rgba(88, 8, 26, 0.64);
   margin-bottom: 32px;
   border-radius: 8px;
 }
