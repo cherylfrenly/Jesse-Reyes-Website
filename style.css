@@ -20,6 +20,7 @@ h2 {
   border: 2px solid darkslategray;
   padding: 16px;
   box-shadow: 1px 1px 18px rgba(88, 8, 26, 0.64);
+  border-radius: 8px;
 }
 
 h3 {
