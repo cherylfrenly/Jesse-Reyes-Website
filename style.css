@@ -19,7 +19,7 @@ h2 {
   font-size: 48px;
   border: 2px solid darkslategray;
   padding: 16px;
-  box-shadow: 1px 1px 3px rgba(88, 8, 26, 0.64);
+  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   border-radius: 8px;
 }
 
@@ -56,7 +56,7 @@ a {
   height: 100px;
   object-fit: cover;
   object-position: center;
-  box-shadow: 1px 1px 3px rgba(88, 8, 26, 0.64);
+  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   margin-bottom: 32px;
   border-radius: 8px;
 }
