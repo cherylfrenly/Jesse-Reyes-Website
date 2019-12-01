@@ -114,10 +114,8 @@ a {
 .contact1 {
   margin-top: 100px;
   display: flex;
-  justify-content: space-between;
-  margin-bottom: 25px
 }
 .contact2 {
-  margin-top: 5px;
-  margin-bottom: 28px;
+  margin-top: 8px;
+  margin-bottom: 30px;
 }
