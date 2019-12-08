@@ -120,8 +120,8 @@ a {
 }
 
 .imgscore {
-  width: 400px;
-  height: 2000px;
+  width: 90vhpx;
+  height: 40vh;
   object-fit: cover;
   object-position: center;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
