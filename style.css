@@ -137,7 +137,10 @@ a {
 }
 
 .box {
-  border: 2px solid black;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+  object-position: center;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   border-radius: 8px;
 }
