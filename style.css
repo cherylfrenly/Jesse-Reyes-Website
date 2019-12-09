@@ -119,7 +119,7 @@ a {
   margin-bottom: 40px;
 }
 
-.score-img {
+.img.score-img {
   width: 95vw;
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
