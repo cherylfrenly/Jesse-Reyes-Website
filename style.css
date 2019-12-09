@@ -137,14 +137,15 @@ a {
 }
 
 .box {
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   text-align: center;
-  padding: 50%
-  display: flex;
-  justify-content: space around;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   border: 2px solid black;
   border-radius: 8px;
 }
 
+.boxes {
+  display: flex;
+  justify-content: space around;
+}
