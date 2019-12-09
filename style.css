@@ -114,11 +114,13 @@ a {
 .contact1 {
   border: 2px solid black;
   border-radius: 8px;
+  padding: 4px:
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
 }
 .contact2 {
   border: 2px solid black;
   border-radius: 8px;
+  padding: 4px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
 }
 
