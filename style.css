@@ -110,28 +110,6 @@ a {
   transform: translateY(0);
 }
 
-
-.contact1 {
-  width: 100px;
-  height: 40px;
-  line-height: 40px;
-  text-align: center;
-  border: 2px solid black;
-  border-radius: 8px;
-  padding: 4px:
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-}
-.contact2 {
-  width: 100px;
-  height: 40px;
-  line-height: 40px;
-  text-align: center;
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-  border: 2px solid black;
-  border-radius: 8px;
-}
-
-
 .img-score {
   width: 95vw;
   border-radius: 8px;
@@ -164,4 +142,14 @@ a {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+}
+
+.contact {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
+  border: 2px solid black;
+  border-radius: 8px;
 }
