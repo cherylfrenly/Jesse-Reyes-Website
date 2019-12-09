@@ -125,15 +125,7 @@ a {
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   max-width: 650px;
-}
-
-#wrapper {
-    white-space: nowrap;
-}
-#wrapper div {
-    display: inline-block;
-    height: 35px;
-    width: 35px;
+  padding: 10px;
 }
 
 .box {
@@ -144,6 +136,7 @@ a {
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   border: 2px solid black;
   border-radius: 8px;
+  padding: 10px;
 }
 
 .boxes {
