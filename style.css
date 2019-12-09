@@ -134,10 +134,11 @@ a {
     display: inline-block;
     height: 35px;
     width: 35px;
-    border-radius: 8px;
 }
 
 .box {
   border: 2px solid black;
+  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
+  border-radius: 8px;
 }
 
