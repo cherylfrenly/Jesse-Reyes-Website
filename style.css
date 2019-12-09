@@ -139,7 +139,7 @@ a {
 .box {
   width: 35px;
   height: 35px;
-  object-position: center;
+  text-align: center;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
   border: 2px solid black;
   border-radius: 8px;
