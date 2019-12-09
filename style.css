@@ -119,24 +119,10 @@ a {
   margin-bottom: 40px;
 }
 
-img {
-  width: 95vw;
-  border-radius: 8px;
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-}
 
-.img-score1 {
+.img-score {
   width: 95vw;
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-  background-image: src="https://user-images.githubusercontent.com/57075784/70385405-c496b080-1941-11ea-9f72-b1980c44da93.jpeg";
-  max-width: 650px;
-}
-
-.img-score2 {
-  width: 95vw;
-  border-radius: 8px;
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-  background-image: src="https://user-images.githubusercontent.com/57075784/70385404-c496b080-1941-11ea-8aed-10118eb4db3a.jpeg";
   max-width: 650px;
 }
