@@ -134,5 +134,9 @@ a {
     display: inline-block;
     height: 20px;
     width: 20px;
-    border: 2px solid black;
 }
+
+.box {
+  border: 2px solid black;
+}
+
