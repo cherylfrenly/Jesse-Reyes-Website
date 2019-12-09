@@ -8,6 +8,12 @@ body {
   margin: 10px;
 }
 
+.score-img {
+  width: 95vw;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
+}
+
 h1 {
   font-family: "Poiret One", cursive;
   font-size: 80px;
@@ -119,8 +125,4 @@ a {
   margin-bottom: 40px;
 }
 
-.img.score-img {
-  width: 95vw;
-  border-radius: 8px;
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-}
+
