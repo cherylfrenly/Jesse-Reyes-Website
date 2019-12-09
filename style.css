@@ -112,15 +112,13 @@ a {
 
 
 .contact1 {
-  margin-top: 60px;
   border: 2px solid black;
   border-radius: 8px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
 }
 .contact2 {
-  margin-top: 10px;
-  margin-bottom: 40px;
   border: 2px solid black;
+  border-radius: 8px;
   box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
 }
 
@@ -151,6 +149,9 @@ a {
 }
 
 .contactbox {
+  margin: 80px 0px 40px 0px;
+  padding: 32px;
+  border-top: 2px solid rosybrown;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
