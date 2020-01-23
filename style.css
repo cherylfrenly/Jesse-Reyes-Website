@@ -158,15 +158,12 @@ a {
 
 .img-list2 {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
 .img-list2 img {
-  width: 100px;
-  height: 100px;
-  object-fit: cover;
-  object-position: center;
+  height: 150px;
   margin-bottom: 32px;
   border-radius: 8px;
 }
