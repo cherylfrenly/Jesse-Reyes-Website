@@ -9,3 +9,8 @@
 ![FF30F5EE-D1AB-46D8-84EE-361B94D26CD2](https://user-images.githubusercontent.com/57075784/70385405-c496b080-1941-11ea-9f72-b1980c44da93.jpeg)
 
 https://user-images.githubusercontent.com/57075784/71549079-59526400-296c-11ea-8c89-0417498d3ca3.jpg
+
+![Excerpt 3](https://user-images.githubusercontent.com/57075784/73016084-113f2980-3dd2-11ea-9b71-5293945ff367.jpeg)
+![Excerpt 1](https://user-images.githubusercontent.com/57075784/73016086-113f2980-3dd2-11ea-852c-fb7a8adb2dca.jpeg)
+![Ravel Tenney Graphic](https://user-images.githubusercontent.com/57075784/73016087-113f2980-3dd2-11ea-927c-2da1e10b7e15.jpeg)
+![Excerpt 2](https://user-images.githubusercontent.com/57075784/73016088-11d7c000-3dd2-11ea-81ad-7aa21fc1b3e5.jpeg)
