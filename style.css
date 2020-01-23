@@ -156,43 +156,17 @@ a {
   font-weight: 900;
 }
 
-.excerpt1 {
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
-  text-align: center;
-  /* box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64); */
-  /* border: 2px solid black; */
-  border-radius: 8px;
-  margin: 2px;
-  background-image: url("https://user-images.githubusercontent.com/57075784/73016086-113f2980-3dd2-11ea-852c-fb7a8adb2dca.jpeg");
-}
-
-.excerpt2 {
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
-  text-align: center;
-  /* box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64); */
-  /* border: 2px solid black; */
-  border-radius: 8px;
-  margin: 2px;
-  background-image: url("https://user-images.githubusercontent.com/57075784/73016088-11d7c000-3dd2-11ea-81ad-7aa21fc1b3e5.jpeg");
-}
-
-.excerpt3 {
-  width: 35px;
-  height: 35px;
-  line-height: 35px;
-  text-align: center;
-  /* box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64); */
-  /* border: 2px solid black; */
-  border-radius: 8px;
-  margin: 2px;
-  background-image: url("https://user-images.githubusercontent.com/57075784/73016084-113f2980-3dd2-11ea-9b71-5293945ff367.jpeg");
-}
-.ravel {
+.img-list2 {
   display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.img-list2 img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  margin-bottom: 32px;
+  border-radius: 8px;
 }
