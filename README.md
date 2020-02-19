@@ -17,6 +17,3 @@ https://user-images.githubusercontent.com/57075784/71549079-59526400-296c-11ea-8
 
 
 
-![Wavecave1](https://user-images.githubusercontent.com/57075784/74794053-05cb0b00-5277-11ea-9f7a-09cb7bde7712.JPG)
-![Wavecave2](https://user-images.githubusercontent.com/57075784/74794057-09f72880-5277-11ea-864a-b452db39f951.JPG)
-![Wavecave3](https://user-images.githubusercontent.com/57075784/74794058-0bc0ec00-5277-11ea-9557-b009a7c6574c.JPG)
