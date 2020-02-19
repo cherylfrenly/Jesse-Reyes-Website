@@ -1,8 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Julius+Sans+One|Poiret+One&display=swap");
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
 
 body {
-  font-family: 'Quicksand', "Julius Sans One", sans-serif;
+  font-family: 'Comfortaa', "Julius Sans One", sans-serif;
   text-align: center;
   background-color: ghostwhite;
   font-size: 16px;
