@@ -169,12 +169,3 @@ a {
   margin-bottom: 32px;
   border-radius: 8px;
 }
-
-.logo {
-  width: 15vw;
-  border-radius: 8px;
-  border: black 2px solid;
-  box-shadow: 2px 2px 4px rgba(88, 8, 26, 0.64);
-  max-width: 650px;
-  margin: 2px;
-}
