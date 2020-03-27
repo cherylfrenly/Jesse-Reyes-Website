@@ -169,3 +169,10 @@ a {
   margin-bottom: 32px;
   border-radius: 8px;
 }
+
+.albumgrid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
