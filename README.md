@@ -41,3 +41,9 @@ https://user-images.githubusercontent.com/57075784/71549079-59526400-296c-11ea-8
 
 ![Chromatic](https://user-images.githubusercontent.com/57075784/77812456-a2df4780-705e-11ea-924b-7e4d884d1362.JPG)
 ![Just Dyads](https://user-images.githubusercontent.com/57075784/77812457-a541a180-705e-11ea-985c-c468adca097e.JPG)
+
+
+
+![1_4 comma](https://user-images.githubusercontent.com/57075784/77813379-6b27ce00-7065-11ea-8649-4a25a5319631.JPG)
+![Disklavier](https://user-images.githubusercontent.com/57075784/77813382-6c58fb00-7065-11ea-963e-ce6fec82f12c.JPG)
+![Prompt](https://user-images.githubusercontent.com/57075784/77813383-6cf19180-7065-11ea-89ef-db652e641902.JPG)
