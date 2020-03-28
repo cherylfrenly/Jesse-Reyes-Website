@@ -37,3 +37,7 @@ https://user-images.githubusercontent.com/57075784/71549079-59526400-296c-11ea-8
 
 <ChaconneScore src="https://user-images.githubusercontent.com/57075784/77789977-3b56d700-7021-11ea-83c9-410ebc62f4e0.png">
 <Unison List src="https://user-images.githubusercontent.com/57075784/77791693-5b3bca00-7024-11ea-8479-0168d930472b.png">
+
+
+![Chromatic](https://user-images.githubusercontent.com/57075784/77812456-a2df4780-705e-11ea-924b-7e4d884d1362.JPG)
+![Just Dyads](https://user-images.githubusercontent.com/57075784/77812457-a541a180-705e-11ea-985c-c468adca097e.JPG)
