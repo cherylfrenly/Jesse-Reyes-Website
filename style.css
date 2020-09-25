@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+
+body {
+  background-color: darkslategray;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+  font-size: 13px;
+  padding: 0;
+  margin: 0;
+}
+body a {
+  color: peachpuff;
+}
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+span {
+  color: peachpuff;
+}
+.covidbanner p {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  color: darkslategray;
+}
+.covidbanner p:hover {
+  color: azure;
+}
+.covidbanner {
+  background-color: peachpuff;
+  margin: 0px;
+  padding: 8px;
+}
+.bodytext p {
+  margin: 0;
+  padding: 0;
+}
+.bodytext a:hover {
+  color: azure;
+}
+.bodytext {
+  margin: 0 25% 0 18%;
+  padding: 2% 0 2% 0;
+}
+.contactphoto {
+  width: 100%;
+  overflow: hidden;
+  padding-left: 35%;
+  margin-top: 2%;
+}
+.contactphoto img {
+  margin: -5% 0 0 0;
+}
+
+.headerphoto {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  overflow: hidden;
+}
+.headerphoto img {
+  margin: -19% 0 -15% 0;
+}
+.leftheader {
+  position: absolute;
+  top: 62%;
+  left: 11%;
+  font-size: 2vw;
+}
+.headerphoto2 {
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 100%;
+  overflow: hidden;
+}
+.headerphoto2 img {
+  margin: -40% 0 -60% 0;
+}
+.leftheader2 {
+  position: absolute;
+  top: 62%;
+  left: 7%;
+  font-size: 2vw;
+}
+
+/* cell phone size */
+@media screen and (max-width: 600px) {
+  .bodytext {
+    margin: 0 2% 0 2%;
+    padding: 2% 0 2% 0;
+  }
+  .leftheader {
+    position: absolute;
+    top: 60%;
+    left: 7%;
+    font-size: 2.2vw;
+  }
+  .leftheader2 {
+  position: absolute;
+  top: 62%;
+  left: 4.5%;
+  font-size: 2.2vw;
+}
+}
