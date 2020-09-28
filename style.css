@@ -118,7 +118,7 @@ span {
   margin-left: -50%;  
 }
 .headerphoto img {
-  margin: -19% 0 -15% 0;
+  margin: -19% -50% -15% 0;
 }
   .headerphoto2 {
   position: relative;
@@ -129,6 +129,6 @@ span {
   margin-left: -20%;
 }
 .headerphoto2 img {
-  margin: -90% 0 -28% 0;
+  margin: -90% -50% -28% 0;
 }
 }
