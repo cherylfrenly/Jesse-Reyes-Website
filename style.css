@@ -7,6 +7,7 @@ body {
   font-size: 1em;
   padding: 0;
   margin: 0;
+  overflow-x: hidden;
 }
 body a {
   color: peachpuff;
@@ -112,7 +113,6 @@ span {
   width: 200%;
   overflow: hidden;
   margin-left: -50%;  
-  clip-path: inset(0px 200px 0px 0px)
 }
 .headerphoto img {
   margin: -19% 0 -15% 0;
@@ -124,7 +124,6 @@ span {
   width: 200%;
   overflow: hidden;
   margin-left: -20%;
-  clip-path: inset(0px 300px 0px 0px)
 }
 .headerphoto2 img {
   margin: -90% 0 -28% 0;
