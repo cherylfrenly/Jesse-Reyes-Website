@@ -7,8 +7,8 @@ body {
   font-size: 1em;
   padding: 0;
   margin: 0;
-  max-width: 100%;
-  overflow-x: hidden;
+  max-width: 100%!important;
+  overflow-x: hidden!important;
 }
 body a {
   color: peachpuff;
@@ -131,8 +131,8 @@ span {
 }
 
 body {
-    max-width: 100%;
-    overflow-x: hidden;
+    max-width: 100%!important;
+    overflow-x: hidden!important;
   }
 
 }
