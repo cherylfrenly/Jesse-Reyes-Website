@@ -112,6 +112,7 @@ span {
   width: 200%;
   overflow: hidden;
   margin-left: -50%;  
+  margin-right: -50%;
 }
 .headerphoto img {
   margin: -19% 0% -15% 0;
@@ -123,6 +124,7 @@ span {
   width: 200%;
   overflow: hidden;
   margin-left: -20%;
+  margin-right: -80%;
 }
 .headerphoto2 img {
   margin: -90% 0% -28% 0;
