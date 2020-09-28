@@ -123,6 +123,7 @@ span {
   width: 200%;
   overflow: hidden;
   margin-left: -20%;
+  clip-path: inset(0px 50px 0px 0px)
 }
 .headerphoto2 img {
   margin: -90% 0 -28% 0;
