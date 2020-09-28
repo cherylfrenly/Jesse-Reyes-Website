@@ -7,6 +7,7 @@ body {
   font-size: 1em;
   padding: 0;
   margin: 0;
+  max-width: 100%;
   overflow-x: hidden;
 }
 body a {
@@ -130,6 +131,7 @@ span {
 }
 
 body {
+    max-width: 100%;
     overflow-x: hidden;
   }
 
