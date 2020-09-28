@@ -88,6 +88,9 @@ span {
 
 /* cell phone size */
 @media screen and (max-width: 600px) {
+ body {
+    overflow-x: hidden;
+  }
   .bodytext {
     margin: 0 3% 0 3%;
     padding: 1% 0 1% 0;
