@@ -51,6 +51,10 @@ span {
 }
 
 /* HEADER PHOTO index */
+.noscroll {
+  max-width: 100%;
+  overflow: hidden;
+}
 .headerphoto {
   position: relative;
   text-align: center;
@@ -127,6 +131,11 @@ span {
 }
 .headerphoto2 img {
   margin: -90% 0% -28% 0;
+}
+
+.noscroll {
+  max-width: 100%;
+  overflow: hidden;
 }
 
 }
