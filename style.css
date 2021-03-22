@@ -90,6 +90,10 @@ span {
   margin: 10px;
 }
 
+.textcushion {
+  margin-top: 5px;
+}
+
 /* cell phone size */
 @media screen and (max-width: 600px) {
   .bodytext {
